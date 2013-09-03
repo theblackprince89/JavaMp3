@@ -1,0 +1,34 @@
+property name : mp3.id3tag.track : 8/8
+property name : mp3.crc : false
+property name : mp3.id3tag.encoded : DownloadMing.SE
+property name : mp3.id3tag.orchestra : DownloadMing.SE
+property name : mp3.copyright : false
+property name : album : Yeh Jawaani Hai Deewani (2013)
+property name : mp3.version.mpeg : 1
+property name : mp3.channels : 2
+property name : date : 2013
+property name : mp3.id3tag.genre : DownloadMing.SE
+property name : author : Arijit Singh & Harshjeep
+property name : mp3.framesize.bytes : 413
+property name : title : Kabira - DownloadMing.SE
+property name : mp3.version.layer : 3
+property name : mp3.length.frames : 10334
+property name : mp3.id3tag.composer : Music: Pritam | Lyrics: Amitabh Bhattacharya & Kumaar
+property name : mp3.vbr.scale : 100
+property name : mp3.bitrate.nominal.bps : 267000
+property name : mp3.version.encoding : MPEG1L3
+property name : mp3.id3tag.v2 : java.io.ByteArrayInputStream@620b66cc
+property name : mp3.id3tag.v2.version : 3
+property name : mp3.padding : false
+property name : mp3.length.bytes : 9080073
+property name : mp3.framerate.fps : 38.28125
+property name : duration : 269949000
+property name : mp3.id3tag.disc : DownloadMing.SE
+property name : mp3.header.pos : 42434
+property name : mp3.frequency.hz : 44100
+property name : mp3.mode : 1
+property name : mp3.vbr : true
+property name : comment : DownloadMing.SE
+property name : mp3.original : true
+
+Song duration = 269

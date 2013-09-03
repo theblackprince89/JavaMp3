@@ -1,0 +1,34 @@
+property name : mp3.id3tag.track : 10/11
+property name : mp3.crc : false
+property name : mp3.id3tag.encoded : DownloadMing.SE
+property name : mp3.id3tag.orchestra : DownloadMing.SE
+property name : mp3.copyright : false
+property name : album : Aashiqui 2 (2013)
+property name : mp3.version.mpeg : 1
+property name : mp3.channels : 2
+property name : date : 2013
+property name : mp3.id3tag.genre : DownloadMing.SE
+property name : author : Arijit Singh
+property name : mp3.framesize.bytes : 413
+property name : title : Milne Hai Mujhse Aayi - DownloadMing.SE
+property name : mp3.version.layer : 3
+property name : mp3.length.frames : 11327
+property name : mp3.id3tag.composer : Music: Mithoon | Lyrics: Mithoon
+property name : mp3.vbr.scale : 100
+property name : mp3.bitrate.nominal.bps : 276000
+property name : mp3.version.encoding : MPEG1L3
+property name : mp3.id3tag.v2 : java.io.ByteArrayInputStream@620b66cc
+property name : mp3.id3tag.v2.version : 3
+property name : mp3.padding : false
+property name : mp3.length.bytes : 10258957
+property name : mp3.framerate.fps : 38.28125
+property name : duration : 295889000
+property name : mp3.id3tag.disc : DownloadMing.SE
+property name : mp3.header.pos : 42537
+property name : mp3.frequency.hz : 44100
+property name : mp3.mode : 1
+property name : mp3.vbr : true
+property name : comment : DownloadMing.SE
+property name : mp3.original : true
+
+Song duration = 295
