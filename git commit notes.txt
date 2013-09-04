@@ -1,2 +1,3 @@
 Shubhayu : try to see if you see these changes when you pull.
 Naveesh: Made changes after ssh: keys failed/ https:// rights chmod failed and adding new remote repo failed. Now opened the GUI with theblackprince89 credentials… 
+Naveesh: Sined in as nash-pwnage Yo!
